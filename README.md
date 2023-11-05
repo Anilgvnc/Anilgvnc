@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React Native, Java, Kotlin, Flutter.**
+- 💬 Ask me about **React Native, Java, Kotlin, Flutter, HTML, CSS, JS.**
 
 - 📫 How to reach me **guvencgrup2@gmail.com**
 
