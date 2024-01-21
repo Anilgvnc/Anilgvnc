@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React Native, Java, Kotlin, Flutter, HTML, CSS, JS.**
 
-- 📫 How to reach me **guvencgrup2@gmail.com**
+- 📫 How to reach me **[My personal website](https://green-wave-0ee2a0b03.4.azurestaticapps.net/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
