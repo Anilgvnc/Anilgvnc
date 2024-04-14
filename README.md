@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="[Repo](https://github.com/Anilgvnc?tab=repositories)">
+  <a href="https://github.com/Anilgvnc?tab=repositories">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,cs,java,kotlin" />
   </a>
 </p>
