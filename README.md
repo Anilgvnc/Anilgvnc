@@ -2,7 +2,6 @@
 <h3 align="center">A passionate mobile application developer from Turkey.</h3>
 
 
-
 - 🔭 I’m currently working on [Unet](https://github.com/Unet-Your-Network)
 
 - 🌱 I’m currently learning **React**
@@ -29,13 +28,13 @@
 </p>
 
 ---
-
+<h3 align="left">My Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anilgvnc&show_icons=true&theme=dark&title_color=ff813f&bg_color=000000&locale=en&layout=compact" alt="anilgvnc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anilgvnc&show_icons=true&theme=dark&title_color=ff813f&bg_color=000000&locale=en" alt="anilgvnc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anilgvnc&theme=dark" alt="anilgvnc" /></p>
 
----
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anilgvnc" alt="anilgvnc" /></a> </p>
+
+---
