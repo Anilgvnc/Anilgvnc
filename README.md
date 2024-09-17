@@ -2,13 +2,13 @@
 <h3 align="center">A passionate mobile application developer from Turkey.</h3>
 
 
-- 🔭 I’m currently working on [Unet](https://github.com/Unet-Your-Network)
+- 🔭 Check out my latest app ShowGeniusAi [App Store](https://apps.apple.com/us/app/showgenius-ai-movies-tv-shows/id6677037386) [Play Store](https://play.google.com/store/apps/details?id=com.showgeniousai)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React Native, Java, Kotlin, Flutter, HTML, CSS, JS.**
+- 💬 Ask me about **React Native, Java, Kotlin, JS, TS.**
 
-- 📫 How to reach me **[My personal website](https://green-wave-0ee2a0b03.4.azurestaticapps.net/)**
+- 📫 How to reach me **[My personal website](https://anilguvenc.web.app)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://github.com/Anilgvnc?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,cs,java,kotlin" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,cs,java,kotlin" />
   </a>
 </p>
 
