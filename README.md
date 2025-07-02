@@ -2,7 +2,9 @@
 <h3 align="center">A passionate mobile application developer from Turkey.</h3>
 
 
-- 🔭 Check out my latest app ShowGeniusAi [App Store](https://apps.apple.com/us/app/showgenius-ai-movies-tv-shows/id6677037386) [Play Store](https://play.google.com/store/apps/details?id=com.showgeniousai)
+- 🔭 Check out my latest app Cosmalyze [App Store](https://apps.apple.com/tr/app/cosmalyze-cruelty-free-beauty/id6747880116) [Play Store](https://play.google.com/store/apps/details?id=com.anilgvnc.cosmalyze&hl=en_US)
+
+- 📱 ShowGeniusAi [App Store](https://apps.apple.com/us/app/showgenius-ai-movies-tv-shows/id6677037386) [Play Store](https://play.google.com/store/apps/details?id=com.showgeniousai)
 
 - 🌱 I’m currently learning **React Native**
 
